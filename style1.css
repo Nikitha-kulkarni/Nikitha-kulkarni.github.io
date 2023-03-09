@@ -1,0 +1,81 @@
+
+header{
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+.size{
+    width: 200px;
+    height: 200px;
+}
+
+input{
+    border-radius: 3rem;
+    padding: 0.5rem;
+}
+.searchbox{
+    float: right;
+    padding: 3px 17px;
+}
+
+#about{
+    padding-top: 2rem;
+    text-align: center;
+}
+
+body{
+    background-color: #C5C6D0;
+    font-family: cursive;
+    color: black;
+}
+table,td,th{
+    margin:auto;
+    text-align: center;
+    /* border-style: hidden;
+    padding: 5% 10%; 
+    column-gap: 40px;
+    width: 40px;
+    border: 15px; */
+}
+
+table{
+    margin: 5%;
+}
+.box{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+} 
+td {
+    margin: 5%;
+    padding : 3rem;
+}
+
+.cartoons{
+    font-weight: bold;
+    padding-bottom: 0.3rem;
+}
+
+.footersize{
+    width: 30px;
+    height: 30px;
+}
+
+footer{
+    background-color: #7C6E7F;
+}
+
+/* table img{
+    margin: 70%;
+} */
+/* .center{
+    margin: 50%;
+} */
+
+.element{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.left-align{
+    text-align: left;
+}
+
